@@ -1,3 +1,3 @@
-module github.com/sphantix/telegram-bot-api
+module github.com/sotarevid/telegram-bot-api
 
 go 1.16
